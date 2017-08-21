@@ -41,4 +41,4 @@ exports.handler = function(event, context) {
  var greeterService = new GreeterService();
  greeterService.execute(event, context);
 };
-bryce_hello
+
